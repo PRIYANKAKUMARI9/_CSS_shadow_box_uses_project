@@ -1,0 +1,41 @@
+.container{
+    background-color: rgb(197, 197, 23);
+    height: 500px;
+    border: 3px solid black;
+    display: flex;
+    justify-content:center;/*top center aayega*/
+    align-items: center; /* top ke bilkul middle me center aa jayega*/
+
+
+}
+.box{
+    background-color: aqua;
+    border: 3px solid red;
+    border-style: dotted;
+    margin: 5px;
+    padding: 10px;
+    width: 300px;
+    height: 400px;
+    box-shadow: 80px 20px 20px red;
+}
+
+.container2{
+    background-color: rgb(197, 197, 23);
+    height:300px;
+    border: 3px solid black;
+    display: flex;
+    justify-content:center;/*top center aayega*/
+    align-items: center; /* top ke bilkul middle me center aa jayega*/
+
+
+}
+.box2{
+    background-color: aqua;
+    border: 3px solid red;
+    border-style: dotted;
+    margin: 5px;
+    padding: 10px;
+    width: 300px;
+    height: 200px;
+    box-shadow: 20px 20px 15px 6px black;
+}
